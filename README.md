@@ -95,7 +95,7 @@ for X, y in test_dataloader:
 
 
 
-![png](CIFAR_10_files/CIFAR_10_7_1.png)
+![png](CIFAR_10_files/CIFAR_10_7_1.png
 
 
 Training and testing functions are defined here. They will be used in the neural network.
