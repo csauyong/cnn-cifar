@@ -95,7 +95,7 @@ for X, y in test_dataloader:
 
 
 
-![png](CIFAR_10_files/CIFAR_10_7_1.png
+![png](CIFAR_10_files/CIFAR_10_7_1.png)
 
 
 Training and testing functions are defined here. They will be used in the neural network.
@@ -243,17 +243,7 @@ axs[1].plot(train_loss)
 axs[1].plot(test_loss)
 ```
 
-    Done! Max accuracy = 0.5538
-
-
-
-
-
-    [<matplotlib.lines.Line2D at 0x7f849bbd1d10>]
-
-
-
-
+Done! Max accuracy = 0.5538
 ![png](CIFAR_10_files/CIFAR_10_16_2.png)
 
 
