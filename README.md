@@ -244,6 +244,7 @@ axs[1].plot(test_loss)
 ```
 
 Done! Max accuracy = 0.5538
+
 ![png](CIFAR_10_files/CIFAR_10_16_2.png)
 
 
@@ -333,16 +334,7 @@ axs[1].plot(train_loss)
 axs[1].plot(test_loss)
 ```
 
-    Done! Max accuracy = 0.6787
-
-
-
-
-
-    [<matplotlib.lines.Line2D at 0x7f849badd550>]
-
-
-
+Done! Max accuracy = 0.6787
 
 ![png](CIFAR_10_files/CIFAR_10_23_2.png)
 
@@ -424,16 +416,7 @@ axs[1].plot(train_loss)
 axs[1].plot(test_loss)
 ```
 
-    Done! Max accuracy = 0.7635
-
-
-
-
-
-    [<matplotlib.lines.Line2D at 0x7fafd8267410>]
-
-
-
+Done! Max accuracy = 0.7635
 
 ![png](CIFAR_10_files/CIFAR_10_30_2.png)
 
@@ -554,17 +537,7 @@ axs[0].plot(test_acc)
 axs[1].plot(train_loss)
 axs[1].plot(test_loss)
 ```
-
-    Done! Max accuracy = 0.9123
-
-
-
-
-
-    [<matplotlib.lines.Line2D at 0x7f41d27eb590>]
-
-
-
+Done! Max accuracy = 0.9123
 
 ![png](CIFAR_10_files/CIFAR_10_34_2.png)
 
